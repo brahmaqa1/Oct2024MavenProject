@@ -20,7 +20,7 @@ public class CreateNewUserTc03 {
 		// open browser		
 		// open url in browser
 		System.setProperty("webdriver.chrome.driver", ".\\Drivers\\chromedriver.exe");
-
+		// add some commnets by tester2 
 		//		//open chrome browser
 		WebDriver driver =  new ChromeDriver();
 		// open url = https://opensource-demo.orangehrmlive.com/web/index.php/auth/login

@@ -18,7 +18,7 @@ public class LoginTC2InvalidUser {
 //		WebUtilites wutil = new WebUtilites();
 //		WebDriver driver =  wutil.openBrowser("Chrome");
 //
-//
+		//Add new line -by tester-2
 //		// open url = https://opensource-demo.orangehrmlive.com/auth/login
 //
 //		wutil.openUrlInBrowser("https://opensource-demo.orangehrmlive.com/auth/login");
